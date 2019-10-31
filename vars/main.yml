@@ -1,0 +1,7 @@
+---
+# vars file for wordpress
+domain: www.example.com
+mysql_pass: vi1421
+db_name: wordpress
+new_user: wpuser
+db_pass: vi1421
